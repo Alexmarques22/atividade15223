@@ -10,6 +10,7 @@ namespace atividade15223
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("textando");
         }
     }
 }
